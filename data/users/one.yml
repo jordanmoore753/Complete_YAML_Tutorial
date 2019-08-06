@@ -1,0 +1,4 @@
+--- !ruby/object:User
+user: one
+pw: "$2a$12$gaLRnzsy1SMtb6AHpOlNneC6mx8XjPg6QZkYnKVc40NP2kn7g4HdG"
+interests: []

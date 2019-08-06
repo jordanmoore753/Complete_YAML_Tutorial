@@ -1,9 +1,0 @@
-1. Explain the user creation process
-- method of finding user and returning object
-- method of data path
-- method of create user yml
-- method of all_users
-2. Explain the interest adding process
-3. Take screenshots of all parts
-4. Take screenshots of browser
-5. Take screenshots of sublime
